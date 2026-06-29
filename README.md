@@ -4,6 +4,8 @@
 > (обучены на видеокарте https://github.com/kiberdans большое спасибо)
 > 
 > (демка https://youtu.be/NA4SwH3jxzY?si=tVdwvsVj_78qUI4J)
+>
+> (модель с kaggle https://www.kaggle.com/models/stalker9969/yolo-1417-cs2-player)
 ## 📊 О модели
 
 - **Датасет:** 1417 изображений (карты Dust2, Mirage).
