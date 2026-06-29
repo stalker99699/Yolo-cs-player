@@ -2,7 +2,7 @@
 
 Репозиторий содержит обученные веса YOLO-модели для детекции игроков в Counter-Strike 2.
 > (обучены на видеокарте https://github.com/kiberdans большое спасибо)
-> (демка https://youtu.be/0ged8a3-Jm0?si=XJ3iDUnCGBxHMg5y)
+> (демка https://youtu.be/NA4SwH3jxzY?si=tVdwvsVj_78qUI4J)
 ## 📊 О модели
 
 - **Датасет:** 1417 изображений (карты Dust2, Mirage).
